@@ -19,10 +19,10 @@ namespace Projeto_2._0
 
         private void button1_Click(object sender, EventArgs e)
         {
-            int valor1, valor2, resultado;
+            double valor1, valor2, resultado;
 
-            valor1 = Convert.ToInt32(textBox1.Text);
-            valor2 = Convert.ToInt32(textBox2.Text);
+            valor1 = Convert.ToDouble(textBox1.Text);
+            valor2 = Convert.ToDouble(textBox2.Text);
 
             resultado = valor1 + valor2;
 
@@ -32,10 +32,10 @@ namespace Projeto_2._0
 
         private void button2_Click(object sender, EventArgs e)
         {
-            int valor1, valor2, resultado;
+            double valor1, valor2, resultado;
 
-            valor1 = Convert.ToInt32(textBox1.Text);
-            valor2 = Convert.ToInt32(textBox2.Text);
+            valor1 = Convert.ToDouble(textBox1.Text);
+            valor2 = Convert.ToDouble(textBox2.Text);
 
             resultado = valor1 - valor2;
 
@@ -45,10 +45,10 @@ namespace Projeto_2._0
 
         private void button3_Click(object sender, EventArgs e)
         {
-            int valor1, valor2, resultado;
+            double valor1, valor2, resultado;
 
-            valor1 = Convert.ToInt32(textBox1.Text);
-            valor2 = Convert.ToInt32(textBox2.Text);
+            valor1 = Convert.ToDouble(textBox1.Text);
+            valor2 = Convert.ToDouble(textBox2.Text);
 
             resultado = valor1 * valor2;
 
@@ -58,15 +58,17 @@ namespace Projeto_2._0
 
         private void button4_Click(object sender, EventArgs e)
         {
-            int valor1, valor2, resultado;
+            double valor1, valor2, resultado;
 
-            valor1 = Convert.ToInt32(textBox1.Text);
-            valor2 = Convert.ToInt32(textBox1.Text);
+            valor1 = Convert.ToDouble(textBox1.Text);
+            valor2 = Convert.ToDouble(textBox2.Text);
 
             resultado = valor1 / valor2;
 
             richTextBox1.Text = "A divisão dos número é: \r" + resultado.ToString();
 
         }
+
+
     }
 }

@@ -8,3 +8,13 @@ C:\Users\st1reisbr\source\repos\devbronus\Projeto_2.0\Projeto_2.0\bin\Debug\Proj
 C:\Users\st1reisbr\source\repos\devbronus\Projeto_2.0\Projeto_2.0\bin\Debug\Projeto_2.0.pdb
 C:\Users\st1reisbr\source\repos\devbronus\Projeto_2.0\Projeto_2.0\obj\Debug\Projeto_2.0.exe
 C:\Users\st1reisbr\source\repos\devbronus\Projeto_2.0\Projeto_2.0\obj\Debug\Projeto_2.0.pdb
+C:\Users\bruno\Documents\devbronusteste1\Projeto_2.0\Projeto_2.0\bin\Debug\Projeto_2.0.exe.config
+C:\Users\bruno\Documents\devbronusteste1\Projeto_2.0\Projeto_2.0\bin\Debug\Projeto_2.0.exe
+C:\Users\bruno\Documents\devbronusteste1\Projeto_2.0\Projeto_2.0\bin\Debug\Projeto_2.0.pdb
+C:\Users\bruno\Documents\devbronusteste1\Projeto_2.0\Projeto_2.0\obj\Debug\Projeto_2.0.csprojAssemblyReference.cache
+C:\Users\bruno\Documents\devbronusteste1\Projeto_2.0\Projeto_2.0\obj\Debug\Projeto_2._0.Form1.resources
+C:\Users\bruno\Documents\devbronusteste1\Projeto_2.0\Projeto_2.0\obj\Debug\Projeto_2._0.Properties.Resources.resources
+C:\Users\bruno\Documents\devbronusteste1\Projeto_2.0\Projeto_2.0\obj\Debug\Projeto_2.0.csproj.GenerateResource.cache
+C:\Users\bruno\Documents\devbronusteste1\Projeto_2.0\Projeto_2.0\obj\Debug\Projeto_2.0.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Documents\devbronusteste1\Projeto_2.0\Projeto_2.0\obj\Debug\Projeto_2.0.exe
+C:\Users\bruno\Documents\devbronusteste1\Projeto_2.0\Projeto_2.0\obj\Debug\Projeto_2.0.pdb
