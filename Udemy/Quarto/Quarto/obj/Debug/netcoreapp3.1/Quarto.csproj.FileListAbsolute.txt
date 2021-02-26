@@ -1,0 +1,12 @@
+C:\Users\bruno\Documents\devbronusteste1\Udemy\Quarto\Quarto\obj\Debug\netcoreapp3.1\Quarto.AssemblyInfoInputs.cache
+C:\Users\bruno\Documents\devbronusteste1\Udemy\Quarto\Quarto\obj\Debug\netcoreapp3.1\Quarto.AssemblyInfo.cs
+C:\Users\bruno\Documents\devbronusteste1\Udemy\Quarto\Quarto\obj\Debug\netcoreapp3.1\Quarto.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Documents\devbronusteste1\Udemy\Quarto\Quarto\bin\Debug\netcoreapp3.1\Quarto.exe
+C:\Users\bruno\Documents\devbronusteste1\Udemy\Quarto\Quarto\bin\Debug\netcoreapp3.1\Quarto.deps.json
+C:\Users\bruno\Documents\devbronusteste1\Udemy\Quarto\Quarto\bin\Debug\netcoreapp3.1\Quarto.runtimeconfig.json
+C:\Users\bruno\Documents\devbronusteste1\Udemy\Quarto\Quarto\bin\Debug\netcoreapp3.1\Quarto.runtimeconfig.dev.json
+C:\Users\bruno\Documents\devbronusteste1\Udemy\Quarto\Quarto\bin\Debug\netcoreapp3.1\Quarto.dll
+C:\Users\bruno\Documents\devbronusteste1\Udemy\Quarto\Quarto\bin\Debug\netcoreapp3.1\Quarto.pdb
+C:\Users\bruno\Documents\devbronusteste1\Udemy\Quarto\Quarto\obj\Debug\netcoreapp3.1\Quarto.dll
+C:\Users\bruno\Documents\devbronusteste1\Udemy\Quarto\Quarto\obj\Debug\netcoreapp3.1\Quarto.pdb
+C:\Users\bruno\Documents\devbronusteste1\Udemy\Quarto\Quarto\obj\Debug\netcoreapp3.1\Quarto.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\bruno\Documents\devbronusteste1\Udemy\Primero\Primero\bin\Debug\netcoreapp3.1\Primero.exe
+C:\Users\bruno\Documents\devbronusteste1\Udemy\Primero\Primero\bin\Debug\netcoreapp3.1\Primero.deps.json
+C:\Users\bruno\Documents\devbronusteste1\Udemy\Primero\Primero\bin\Debug\netcoreapp3.1\Primero.runtimeconfig.json
+C:\Users\bruno\Documents\devbronusteste1\Udemy\Primero\Primero\bin\Debug\netcoreapp3.1\Primero.runtimeconfig.dev.json
+C:\Users\bruno\Documents\devbronusteste1\Udemy\Primero\Primero\bin\Debug\netcoreapp3.1\Primero.dll
+C:\Users\bruno\Documents\devbronusteste1\Udemy\Primero\Primero\bin\Debug\netcoreapp3.1\Primero.pdb
+C:\Users\bruno\Documents\devbronusteste1\Udemy\Primero\Primero\obj\Debug\netcoreapp3.1\Primero.csprojAssemblyReference.cache
+C:\Users\bruno\Documents\devbronusteste1\Udemy\Primero\Primero\obj\Debug\netcoreapp3.1\Primero.AssemblyInfoInputs.cache
+C:\Users\bruno\Documents\devbronusteste1\Udemy\Primero\Primero\obj\Debug\netcoreapp3.1\Primero.AssemblyInfo.cs
+C:\Users\bruno\Documents\devbronusteste1\Udemy\Primero\Primero\obj\Debug\netcoreapp3.1\Primero.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Documents\devbronusteste1\Udemy\Primero\Primero\obj\Debug\netcoreapp3.1\Primero.dll
+C:\Users\bruno\Documents\devbronusteste1\Udemy\Primero\Primero\obj\Debug\netcoreapp3.1\Primero.pdb
+C:\Users\bruno\Documents\devbronusteste1\Udemy\Primero\Primero\obj\Debug\netcoreapp3.1\Primero.genruntimeconfig.cache

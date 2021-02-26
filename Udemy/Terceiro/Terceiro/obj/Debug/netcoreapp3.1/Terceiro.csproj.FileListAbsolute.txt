@@ -1,0 +1,12 @@
+C:\Users\bruno\Documents\devbronusteste1\Udemy\Terceiro\Terceiro\bin\Debug\netcoreapp3.1\Terceiro.exe
+C:\Users\bruno\Documents\devbronusteste1\Udemy\Terceiro\Terceiro\bin\Debug\netcoreapp3.1\Terceiro.deps.json
+C:\Users\bruno\Documents\devbronusteste1\Udemy\Terceiro\Terceiro\bin\Debug\netcoreapp3.1\Terceiro.runtimeconfig.json
+C:\Users\bruno\Documents\devbronusteste1\Udemy\Terceiro\Terceiro\bin\Debug\netcoreapp3.1\Terceiro.runtimeconfig.dev.json
+C:\Users\bruno\Documents\devbronusteste1\Udemy\Terceiro\Terceiro\bin\Debug\netcoreapp3.1\Terceiro.dll
+C:\Users\bruno\Documents\devbronusteste1\Udemy\Terceiro\Terceiro\bin\Debug\netcoreapp3.1\Terceiro.pdb
+C:\Users\bruno\Documents\devbronusteste1\Udemy\Terceiro\Terceiro\obj\Debug\netcoreapp3.1\Terceiro.AssemblyInfoInputs.cache
+C:\Users\bruno\Documents\devbronusteste1\Udemy\Terceiro\Terceiro\obj\Debug\netcoreapp3.1\Terceiro.AssemblyInfo.cs
+C:\Users\bruno\Documents\devbronusteste1\Udemy\Terceiro\Terceiro\obj\Debug\netcoreapp3.1\Terceiro.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Documents\devbronusteste1\Udemy\Terceiro\Terceiro\obj\Debug\netcoreapp3.1\Terceiro.dll
+C:\Users\bruno\Documents\devbronusteste1\Udemy\Terceiro\Terceiro\obj\Debug\netcoreapp3.1\Terceiro.pdb
+C:\Users\bruno\Documents\devbronusteste1\Udemy\Terceiro\Terceiro\obj\Debug\netcoreapp3.1\Terceiro.genruntimeconfig.cache
