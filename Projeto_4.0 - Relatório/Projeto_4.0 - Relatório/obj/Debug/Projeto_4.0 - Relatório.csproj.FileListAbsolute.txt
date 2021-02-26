@@ -1,0 +1,10 @@
+C:\Users\st1reisbr\source\repos\devbronus\Projeto_4.0 - Relatório\Projeto_4.0 - Relatório\bin\Debug\Projeto_4.0 - Relatório.exe.config
+C:\Users\st1reisbr\source\repos\devbronus\Projeto_4.0 - Relatório\Projeto_4.0 - Relatório\bin\Debug\Projeto_4.0 - Relatório.exe
+C:\Users\st1reisbr\source\repos\devbronus\Projeto_4.0 - Relatório\Projeto_4.0 - Relatório\bin\Debug\Projeto_4.0 - Relatório.pdb
+C:\Users\st1reisbr\source\repos\devbronus\Projeto_4.0 - Relatório\Projeto_4.0 - Relatório\obj\Debug\Projeto_4.0 - Relatório.csprojAssemblyReference.cache
+C:\Users\st1reisbr\source\repos\devbronus\Projeto_4.0 - Relatório\Projeto_4.0 - Relatório\obj\Debug\Projeto_4._0___Relatório.Form1.resources
+C:\Users\st1reisbr\source\repos\devbronus\Projeto_4.0 - Relatório\Projeto_4.0 - Relatório\obj\Debug\Projeto_4._0___Relatório.Properties.Resources.resources
+C:\Users\st1reisbr\source\repos\devbronus\Projeto_4.0 - Relatório\Projeto_4.0 - Relatório\obj\Debug\Projeto_4.0 - Relatório.csproj.GenerateResource.cache
+C:\Users\st1reisbr\source\repos\devbronus\Projeto_4.0 - Relatório\Projeto_4.0 - Relatório\obj\Debug\Projeto_4.0 - Relatório.csproj.CoreCompileInputs.cache
+C:\Users\st1reisbr\source\repos\devbronus\Projeto_4.0 - Relatório\Projeto_4.0 - Relatório\obj\Debug\Projeto_4.0 - Relatório.exe
+C:\Users\st1reisbr\source\repos\devbronus\Projeto_4.0 - Relatório\Projeto_4.0 - Relatório\obj\Debug\Projeto_4.0 - Relatório.pdb
