@@ -53,8 +53,8 @@ namespace Projeto_4._0___Relatório
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.abrirToolStripMenuItem,
             this.inserirToolStripMenuItem,
-            this.sair,
-            this.ajudaToolStripMenuItem});
+            this.ajudaToolStripMenuItem,
+            this.sair});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
             this.menuStrip1.Size = new System.Drawing.Size(1120, 24);
