@@ -1,0 +1,10 @@
+C:\Users\st1reisbr\Documents\devbronusteste1\Projeto 5 - Gerenciamento de Impressoras\Projeto 5 - Gerenciamento de Impressoras\bin\Debug\Projeto 5 - Gerenciamento de Impressoras.exe.config
+C:\Users\st1reisbr\Documents\devbronusteste1\Projeto 5 - Gerenciamento de Impressoras\Projeto 5 - Gerenciamento de Impressoras\bin\Debug\Projeto 5 - Gerenciamento de Impressoras.exe
+C:\Users\st1reisbr\Documents\devbronusteste1\Projeto 5 - Gerenciamento de Impressoras\Projeto 5 - Gerenciamento de Impressoras\bin\Debug\Projeto 5 - Gerenciamento de Impressoras.pdb
+C:\Users\st1reisbr\Documents\devbronusteste1\Projeto 5 - Gerenciamento de Impressoras\Projeto 5 - Gerenciamento de Impressoras\obj\Debug\Projeto 5 - Gerenciamento de Impressoras.csprojAssemblyReference.cache
+C:\Users\st1reisbr\Documents\devbronusteste1\Projeto 5 - Gerenciamento de Impressoras\Projeto 5 - Gerenciamento de Impressoras\obj\Debug\Projeto_5___Gerenciamento_de_Impressoras.Form1.resources
+C:\Users\st1reisbr\Documents\devbronusteste1\Projeto 5 - Gerenciamento de Impressoras\Projeto 5 - Gerenciamento de Impressoras\obj\Debug\Projeto_5___Gerenciamento_de_Impressoras.Properties.Resources.resources
+C:\Users\st1reisbr\Documents\devbronusteste1\Projeto 5 - Gerenciamento de Impressoras\Projeto 5 - Gerenciamento de Impressoras\obj\Debug\Projeto 5 - Gerenciamento de Impressoras.csproj.GenerateResource.cache
+C:\Users\st1reisbr\Documents\devbronusteste1\Projeto 5 - Gerenciamento de Impressoras\Projeto 5 - Gerenciamento de Impressoras\obj\Debug\Projeto 5 - Gerenciamento de Impressoras.csproj.CoreCompileInputs.cache
+C:\Users\st1reisbr\Documents\devbronusteste1\Projeto 5 - Gerenciamento de Impressoras\Projeto 5 - Gerenciamento de Impressoras\obj\Debug\Projeto 5 - Gerenciamento de Impressoras.exe
+C:\Users\st1reisbr\Documents\devbronusteste1\Projeto 5 - Gerenciamento de Impressoras\Projeto 5 - Gerenciamento de Impressoras\obj\Debug\Projeto 5 - Gerenciamento de Impressoras.pdb
